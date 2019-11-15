@@ -3,9 +3,9 @@
 
 [![DOI](https://zenodo.org/badge/166476589.svg)](https://zenodo.org/badge/latestdoi/166476589)
 
+This mouse cerebellar atlas used for  mouse cerebellarvmorphometry.
 
-This mouse cerebellar atlas can be used for  mouse cerebellarvmorphometry
-
+The codes used to generate the results of this atlas is available [here](https://github.com/dancebean/mouse-cortical-layer-morphometry). 
 
 ## QuickCheck
 
